@@ -75,6 +75,16 @@ Existe una correlación negativa moderada entre el puntaje de salud mental y el 
 
 ---
 
+### 7. 🌎 Promedio de uso diario por país
+
+**Gráfico:** Grafico de barra.
+
+![Promedio de horas por país](images/7.png)
+
+**Insight:**  
+Se observa que estudiantes en **Estados Unidos** y **Emiratos Árabes Unidos (UAE)** tienen los mayores promedios de uso diario de redes sociales, con **6.89** y **6.72** horas respectivamente. En contraste, **Tailandia** muestra el menor promedio, con **5.90** horas diarias.  
+Esto podría estar relacionado con factores culturales, horarios académicos o nivel de acceso a tecnología, lo cual representa una oportunidad para investigaciones más profundas por país.
+
 ## 📦 Herramientas utilizadas
 
 - `Python`
